@@ -68,7 +68,9 @@
   </a>
 </div><<!--
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?secgyu=anuraghazra&show_icons=true&theme=transparent)
+### My Info
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rbals1915)](https://solved.ac/profile/rbals1915)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=secgyu&show_icons=true&theme=tokyonight)
 
 
 **secgyu/secgyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
