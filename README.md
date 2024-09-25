@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
@@ -27,8 +28,12 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" />&nbsp
 </div>
 
 <br>
@@ -48,6 +53,7 @@
   <img src="https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/eclipseide-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" />&nbsp
 </div>
 
 <br>
