@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/scipy-8CAAE6.svg?style=for-the-badge&logo=scipy&logoColor=white" />&nbsp
 </div>
 
 <br>
