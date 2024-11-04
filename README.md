@@ -29,6 +29,13 @@
 ## 📫 Contact 📫
 <img src="https://img.shields.io/badge/jjangg_gu-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /> 
 
-### My Info
+## My Info
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rbals1915)](https://solved.ac/profile/rbals1915)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=secgyu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+## Awards 🥇🥈🥉
+| Rank | Task | Topic | Sponsor | Date |
+|:------:|-------|------|---------|------|
+| 최우수상  |  스트레스 모니터링 AI   | 2024 울산정보산업진흥원 AI테크데이 해커톤 대회 | 울산정보산업진흥원 | 2024.10.31 |
+| 장려상  | AI살피미 | 2024 MS 클라우드를 활용한 인공지능 서비스 개발 경진대회 | 선문대학교  | 2024.11.1 |
+| ???  | 스마트 안전모 | 2024 BDIA Devton | BDIA  | 2024.11.20 |
