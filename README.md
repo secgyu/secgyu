@@ -1,12 +1,12 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=✌️🤪✌️&desc=This%20is%20Gyumin's%20Github.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
+
 <img src="cat.webp" width="100"/>
 
 </div>
 
-
-<!--내용 부분-->
+<!-- 내용 부분 -->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
@@ -71,23 +71,8 @@
     <img
       src="https://img.shields.io/badge/rbals1915@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/>&nbsp
   </a>
-  
+</div>
+
 ### My Info
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rbals1915)](https://solved.ac/profile/rbals1915)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=secgyu&show_icons=true&theme=tokyonight)
-</div><<!--
-
-
-**secgyu/secgyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=secgyu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
