@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=✌️🤪✌️&desc=This%20is%20Gyumin's%20Github.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
 
-[![portfolio](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=포트폴리오%20&fontSize=50)](http://react-portfolio-kappa-two.vercel.app/)
+[![portfolio](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=포트폴리오_바로가기_클릭%20&fontSize=50)](http://react-portfolio-kappa-two.vercel.app/)
 
 <img src="cat.webp" width="50"/>
 
