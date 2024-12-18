@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=✌️🤪✌️&desc=This%20is%20Gyumin's%20Github.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
 
-[![portfolio](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=포트폴리오_바로가기_클릭%20&fontSize=50)](http://react-portfolio-kappa-two.vercel.app/)
-
 <img src="cat.webp" width="50"/>
 
 </div>
@@ -20,9 +18,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" />
 
 - <img src="https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=VSCode&logoColor=white" />
-  
-## 📫 Contact 📫
-<img src="https://img.shields.io/badge/jjangg_gu-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /> 
 
 ## My Info
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rbals1915)](https://solved.ac/profile/rbals1915)
