@@ -1,7 +1,5 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=✌️🤪✌️&desc=This%20is%20Gyumin's%20Github.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
-
 <img src="cat.webp" width="50"/>
 
 </div>
@@ -30,3 +28,4 @@
 | 장려상  | AI살피미 | 2024 MS 클라우드를 활용한 인공지능 서비스 개발 경진대회 | 선문대학교  | 2024.11.1 |
 | 혁신상  | 스마트 안전모 | 2024 BDIA Devton | BDIA  | 2024.11.20 |
 | 최우수상  | 인공지능을 활용한 음성기반 스트레스 관리 서비스 매딕 | 경성대학교 캡스톤디자인 경진대회 | 경성대학교  | 2024.12.06 |
+| Silver Award | 인공지능 매딕 | ASCC |  | 2025.02.26
