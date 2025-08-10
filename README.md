@@ -14,7 +14,7 @@
 | Build Tool |  <img src="https://img.shields.io/badge/Vite-646CFF"> <img src="https://img.shields.io/badge/Babel-F9DC3E">|
 | Database |  <img src="https://img.shields.io/badge/sqlite-003B57"> <img src="https://img.shields.io/badge/mongodb-47A248"> |
 
-|Pract | <img src="https://img.shields.io/badge/Vue-4FC08D"> <img src="https://img.shields.io/badge/Svelte-FF3E00">|
+|Pract | <img src="https://img.shields.io/badge/Vue-4FC08D"> <img src="https://img.shields.io/badge/Svelte-FF3E00"> <img src="https://img.shields.io/badge/nestjs-E0234E">|
 |---|---|
 
 ### My Info
